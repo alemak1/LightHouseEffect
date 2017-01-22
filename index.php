@@ -23,17 +23,17 @@ include('inc/header.php');
 </div>
 
 	<ul id="imageGallery">
-		<li><a href="img/akihabara_daytime.jpg"><img src="img/akihabara_daytime.jpg" width="200" alt="Akihabara during Daytime"></a></li>
-		<li><a href="img/emperor_palace.jpg"><img src="img/emperor_palace.jpg" width="170" alt="Emperor's Palace in Tokyo"></a></li>
-		<li><a href="img/fish_market.jpg"><img src="img/fish_market.jpg" width="200" alt="Fish Market in Tokyo"></a></li>
-		<li><a href="img/mount_fuji.jpg"><img src="img/mount_fuji.jpg" width="200" alt="Mount Fuji"></a></li>
-		<li><a href="img/sensoji_temple.jpg"><img src="img/sensoji_temple.jpg" width="170" alt="Sensoji Temple"></a></li>
-		<li><a href="img/shunjuku.jpg"><img src="img/shunjuku.jpg" width="170" alt="Shunjuku during Daytime"></a></li>
+		<li><a href="img/akihabara_daytime.png"><img src="img/akihabara_daytime.jpg" width="200" alt="Akihabara during Daytime"></a></li>
+		<li><a href="img/emperor_palace.png"><img src="img/emperor_palace.jpg" width="170" alt="Emperor's Palace in Tokyo"></a></li>
+		<li><a href="img/fish_market.png"><img src="img/fish_market.jpg" width="200" alt="Fish Market in Tokyo"></a></li>
+		<li><a href="img/mount_fuji.png"><img src="img/mount_fuji.jpg" width="200" alt="Mount Fuji"></a></li>
+		<li><a href="img/sensoji_temple.png"><img src="img/sensoji_temple.jpg" width="170" alt="Sensoji Temple"></a></li>
+		<li><a href="img/shunjuku.png"><img src="img/shunjuku.jpg" width="170" alt="Shunjuku during Daytime"></a></li>
 		<li><a href="img/sumida1.jpg"><img src="img/sumida1.jpg" width="200" alt="Sumida Fireworks Festival Image 1"></a></li>
 		<li><a href="img/sumida2.jpg"><img src="img/sumida2.jpg" width="200" alt="Sumida Fireworks Festival Image 2"></a></li>
 		<li><a href="img/sumida3.jpg"><img src="img/sumida3.jpg" width="160" alt="Sumida Fireworks Festival Image 3"></a></li>
-		<li><a href="img/ueno_park.jpg"><img src="img/ueno_park.jpg" width="200" alt="Ueno Park"></a></li>
-		<li><a href="img/shunjuku_intersection.jpg"><img src="img/shunjuku_intersection.jpg" width="200" alt="Shunjuku Street Intersection"></a></li>
+		<li><a href="img/ueno_park.png"><img src="img/ueno_park.jpg" width="200" alt="Ueno Park"></a></li>
+		<li><a href="img/shunjuku_intersection.png"><img src="img/shunjuku_intersection.png" width="200" alt="Shunjuku Street Intersection"></a></li>
 	
 	</ul>
 
