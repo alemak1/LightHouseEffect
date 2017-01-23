@@ -1,3 +1,5 @@
+<!-- The .php index file will be the homepage in PHP environments -->
+
 <?php
 include('inc/header.php');
 
